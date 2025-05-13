@@ -76,6 +76,8 @@ POST /api/tasks — Create a new task
 
 DELETE /api/tasks/:id — Delete a task
 📸 Screenshots
+<img width="1291" alt="Screenshot 2025-05-13 at 7 31 49 PM" src="https://github.com/user-attachments/assets/e28a44b8-a425-428f-9532-50af105ba6f1" />
+
 
 🧠 Future Improvements
 ✅ Edit tasks and categories
